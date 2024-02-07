@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/a/yBimXwd" alt="Banner" style="border-radius:10px;"/>
+
+  <img src="https://github.com/takieddinetorki/takieddinetorki/assets/66402797/5fae6271-5608-404a-b03e-89093a2543df" alt="Banner" style="border-radius:10px;"/>
 </p>
 
 <h3>👨‍💻 Currently Working On:</h3>
