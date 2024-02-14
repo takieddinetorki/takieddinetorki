@@ -48,7 +48,6 @@
   <li>Exploring the integration of drone technology for commercial and security purposes.</li>
 </ul>
 <h2>Github Stats</h2>
-[![Taki's GitHub stats](https://github-readme-stats.vercel.app/api?username=takieddinetorki)](https://github.com/anuraghazra/github-readme-stats)
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
